@@ -1,0 +1,9 @@
+{
+  "name": "Example Cleaning Co",
+  "city": "London",
+  "country": "United Kingdom",
+  "services": ["domestic", "commercial", "end of tenancy"],
+  "free_to_list": true,
+  "url": "https://www.cqdnewgen.ai/directory/example-cleaning-co",
+  "source": "https://www.cqdnewgen.ai"
+}
